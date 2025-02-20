@@ -1,0 +1,11 @@
+name: trolldustryV8
+displayName: Trolldustry V8
+author: DX-36
+description:
+  '''
+  modifies the campain maps to troll you, now in V8
+  this mod will overwrite campaign sectors with troll versions, have fun
+  '''
+version: too much trolling
+minGameVersion: "147"
+hidden: false
