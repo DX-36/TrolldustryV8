@@ -2,4 +2,6 @@
 
 Trolldustry modifies campaign maps in Mindustry to troll unsuspecting players. Now in V8!
 
-Also check out the rest of the maps in [Mindustry's Hardest Maps list](https://docs.google.com/spreadsheets/d/1YypKg0mhc0Q16pzyZtMQVFSineVc4RIvQwrrlin8fWc/edit?usp=drivesdk)
+The maps can be downloaded and played individually, or this can be played as a mod that replaces the campaign sectors.
+
+~~totally not affiliated with [Mindustry's Hardest Maps list](https://docs.google.com/spreadsheets/d/1YypKg0mhc0Q16pzyZtMQVFSineVc4RIvQwrrlin8fWc/edit?usp=drivesdk)~~
