@@ -7,5 +7,5 @@ description:
   this mod will overwrite campaign sectors with troll versions, have fun
   '''
 version: too much trolling
-minGameVersion: "147"
+minGameVersion: "150"
 hidden: false
